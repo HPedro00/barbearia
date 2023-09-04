@@ -1,12 +1,19 @@
-p {
-    text-align: center;
-    background: #cccccc;
-    }
+body {
+     background: #cccccc;
+     }
 
-    h1{
-        background: #cccccc:
-        }
-            body {
-           background: #cccccc;
-            }
-    
+     h1{    
+        text-align: center;
+     }
+
+p{
+    background: #cccccc;
+    text-align: center;
+}
+
+em strong{
+    color:red:
+}
+#missao {
+    font-size: 20px;
+}
