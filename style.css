@@ -24,6 +24,17 @@ em strong{
      .itens{
           font_style: italic:
 }
+     .imagembeneficios {
+          width: 50%;
+     }
+
+     ul{
+          display: inline-block;
+          verticall-aling: top;
+          width: 20%;
+          margin-right: 15%;
+     }
+     
 #missao {
     font-size: 20px;
 }
